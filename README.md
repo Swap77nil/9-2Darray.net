@@ -49,3 +49,5 @@ namespace array<br>
 }<br>
 
 OUTPUT:-
+![Screenshot 2022-02-03 130155](https://user-images.githubusercontent.com/98145032/152477042-6d4ee515-ee60-4b83-9af6-30c897967044.png)
+
